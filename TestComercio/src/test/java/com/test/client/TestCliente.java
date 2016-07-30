@@ -48,7 +48,7 @@ public class TestCliente {
 		ClienteDTO cliente = new ClienteDTO();
 		
 		cliente.setDireccion("HolaMundo");
-		cliente.setNombre("AngelMundo");		
+		cliente.setNombre("Angel");		
 		manageCliente_in.setCliente(cliente );
 		
 		try {
