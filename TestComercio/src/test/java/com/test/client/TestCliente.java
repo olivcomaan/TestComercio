@@ -47,7 +47,7 @@ public class TestCliente {
 		
 		ClienteDTO cliente = new ClienteDTO();
 		
-		cliente.setDireccion("CAlle seguimos con las versiones");
+		cliente.setDireccion("Cambio realizado en GitHub");
 		cliente.setNombre("Angel");		
 		manageCliente_in.setCliente(cliente );
 		
