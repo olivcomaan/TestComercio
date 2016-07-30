@@ -47,7 +47,7 @@ public class TestCliente {
 		
 		ClienteDTO cliente = new ClienteDTO();
 		
-		cliente.setDireccion("HolaMundo");
+		cliente.setDireccion("PruebaGitAver");
 		cliente.setNombre("Angel");		
 		manageCliente_in.setCliente(cliente );
 		
